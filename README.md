@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.0-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
 # 🌍 Análisis de Temperatura Global y Cambio Climático (1850-2015)
 
 **Autor:** Oscar Mauricio Montenegro  
